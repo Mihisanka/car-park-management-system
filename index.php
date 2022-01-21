@@ -25,7 +25,7 @@
 	<section id="content">
 	<center> <img src="src/tk.png"> </center>
 	<div>
-		<vhead>SLTC Car Park Management System</br></vhead>
+		<vhead>Aztec Car Park Management System</br></vhead>
 	</div>
 	<!--<div style=" font-weight:bold; margin-top:310px;font-size:28px;"> -->
 		<b><p><center>Save your time Take your slot.</br>Book Now or Unbook</center></p></b>
